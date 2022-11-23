@@ -3,4 +3,10 @@
 
 <a href="https://codeclimate.com/github/RonnZhuk/python-project-49/test_coverage"><img src="https://api.codeclimate.com/v1/badges/952e3de76b2a6ea1b063/test_coverage" /></a>
 
+
+Brain Even:
 https://asciinema.org/a/VCSAjrohPYQsgerPgq69pOcbB
+Brain Calc:
+https://asciinema.org/a/8o5rTxr43u3pkZFmVpoaneVn8
+Brain GCD:
+https://asciinema.org/a/VowCHrjGSCG6gByza8Xrw3FDe

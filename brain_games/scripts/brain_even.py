@@ -1,10 +1,9 @@
-from brain_games.task.even_task import even_number
-from brain_games.cli import welcome_user
+from brain_games.repeated_code import game_frame
+from brain_games.task import even_task
+
 
 def main():
-    print("Welcome to the Brain Games!")
-    welcome_user()
-    even_number()
+    game_frame(even_task)
 
 
 if __name__ == '__main__':

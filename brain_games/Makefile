@@ -4,7 +4,19 @@ brain-games:
 	poetry run brain-games
 brain-even:
 	poetry run brain-even
+brain-calc:
+	poetry run brain-calc
+brain-gcd:
+	poetry run brain-gcd
+brain-progression:
+	poetry run brain-progression
 package-install:
 	python3 -m pip install --user dist/*.whl
+build:
+	poetry build
+publish:
+	poetry publish --dry-run
+brain-prime:
+	poetry run brain-prime
 lint:
-	poetry run flake8 /home/hexlet-git/python-project-49/brain_games
+	poetry run flake8 brain_games
