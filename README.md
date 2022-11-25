@@ -14,11 +14,9 @@ Quick start:
 - Check prime number game - brain-prime
 
 
-Brain Even:
-https://asciinema.org/a/VCSAjrohPYQsgerPgq69pOcbB
-Brain Calc:
-https://asciinema.org/a/8o5rTxr43u3pkZFmVpoaneVn8
-Brain GCD:
-https://asciinema.org/a/VowCHrjGSCG6gByza8Xrw3FDe
-Brain progression:
-https://asciinema.org/a/pZo6WV7NOuRZDtgIh1cZGUlHq
+Asciinema Games:
+- Brain Even: https://asciinema.org/a/VCSAjrohPYQsgerPgq69pOcbB
+- Brain Calc: https://asciinema.org/a/8o5rTxr43u3pkZFmVpoaneVn8
+- Brain GCD: https://asciinema.org/a/VowCHrjGSCG6gByza8Xrw3FDe
+- Brain progression: https://asciinema.org/a/pZo6WV7NOuRZDtgIh1cZGUlHq
+- Brain Prime: 
