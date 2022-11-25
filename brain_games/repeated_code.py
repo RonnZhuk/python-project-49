@@ -20,6 +20,6 @@ def game_frame(task):
             print(f"'{client_answer}' is wrong answer ;(. \
 Correct answer was '{correct_answer}'")
             print(f"Let's try again, {name}!")
-            win = 0
+            break
     if win == 3:
         print(f'Congratulations, {name}!')
