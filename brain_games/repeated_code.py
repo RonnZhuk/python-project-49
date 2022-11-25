@@ -17,7 +17,8 @@ def game_frame(task):
             win = win + 1
         else:
             client_answer != correct_answer
-            print(f"'{client_answer}' is wrong answer ;(. Correct answer was '{correct_answer}'")
+            print(f"'{client_answer}' is wrong answer ;(. \
+Correct answer was '{correct_answer}'")
             print(f"Let's try again, {name}!")
             win = 0
     if win == 3:
