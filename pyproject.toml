@@ -3,6 +3,7 @@ name = "hexlet-code"
 version = "0.1.0"
 description = ""
 authors = ["RonnZhuk"]
+repository = "https://github.com/RonnZhuk/python-project-49"
 readme = "README.md"
 packages = [{include = "brain_games"}]
 
