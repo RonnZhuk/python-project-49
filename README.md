@@ -15,8 +15,8 @@ Quick start:
 
 
 Asciinema Games:
-- Brain Even: https://asciinema.org/a/VCSAjrohPYQsgerPgq69pOcbB
-- Brain Calc: https://asciinema.org/a/8o5rTxr43u3pkZFmVpoaneVn8
-- Brain GCD: https://asciinema.org/a/VowCHrjGSCG6gByza8Xrw3FDe
-- Brain progression: https://asciinema.org/a/pZo6WV7NOuRZDtgIh1cZGUlHq
-- Brain Prime: 
+- Brain Even: https://asciinema.org/a/540956
+- Brain Calc: https://asciinema.org/a/540958
+- Brain GCD: https://asciinema.org/a/540959
+- Brain progression: https://asciinema.org/a/540960
+- Brain Prime: https://asciinema.org/a/540961
